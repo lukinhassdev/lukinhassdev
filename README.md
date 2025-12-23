@@ -3,8 +3,6 @@
 Desenvolvedor Front-End | Técnico em Multimídia (SENAI)
 Desenvolvedor front-end com foco na criação de interfaces web responsivas, organização de código e boas práticas. Busco oportunidade como estagiário ou desenvolvedor front-end júnior.
 
-## Tecnologias
-
 HTML5 | CSS3 | JavaScript | Git/GitHub desktop | GitHub
 
 ## Experiência
