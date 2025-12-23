@@ -1,16 +1,20 @@
-## Hi there 👋
+# Lucas Silva de Magalhães
 
-<!--
-**lukinhassdev/lukinhassdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Front-End | Técnico em Multimídia (SENAI)
+Desenvolvedor front-end com foco na criação de interfaces web responsivas, organização de código e boas práticas. Busco oportunidade como estagiário ou desenvolvedor front-end júnior.
 
-Here are some ideas to get you started:
+## Tecnologias
+HTML5 | CSS3 | JavaScript | Git/GitHub desktop | GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experiência
+- Projetos práticos desenvolvidos durante a formação no SENAI  
+- Criação de sites institucionais e cardápios digitais  
+- Trabalho em equipe utilizando Scrum e Kanban  
+- Desenvolvimento de MVPs  
+
+## Ferramentas
+- Visual Studio Code  
+
+## Contato
+- E-mail: lucassilvamagalhaes352@gmail.com  
+- Telefone / WhatsApp: (17) 99648-3632  
