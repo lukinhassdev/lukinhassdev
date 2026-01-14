@@ -16,7 +16,10 @@ HTML5 | CSS3 | JavaScript | Git/GitHub desktop | GitHub
 
 ## Ferramentas
 
-- Visual Studio Code  
+- Visual Studio Code
+- Figma
+- CapCut
+- Photoshop  
 
 ## Contato
 
