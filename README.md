@@ -2,7 +2,7 @@
 
 Desenvolvedor Back end | Técnico em Multimídia
 
-Desenvolvedor Back end java com foco na criação de sistemas, softwares robustos, organização de código e boas práticas. Busco oportunidade como estagiário ou desenvolvedor back end júnior.
+OLá, meu nome é lucas, tenho 18 anos e atualmente estou cursando (ADS) análise e desenvolvimento de sistemas na (UNIRP) centro universitário de rio preto, meu foco é me tornar um desenvolvedor Back end e meu objetivo atual é conseguir uma oportunidade como estagiário, desenvolvedor back end júnior. Minha linguagem de programação principal é o java, foco na criação de sistemas, softwares robustos, organização de código e boas práticas.  
 
 ## Tech
 HTML5 | CSS3 | Java | Git/GitHub
