@@ -1,11 +1,11 @@
 # Lucas Silva de Magalhães
 
-Desenvolvedor Front-End | Técnico em Multimídia (SENAI)
+Desenvolvedor Back end | Técnico em Multimídia
 
-Desenvolvedor front-end com foco na criação de interfaces web responsivas, organização de código e boas práticas. Busco oportunidade como estagiário ou desenvolvedor front-end júnior.
+Desenvolvedor Back end java com foco na criação de sistemas, softwares robustos, organização de código e boas práticas. Busco oportunidade como estagiário ou desenvolvedor back end júnior.
 
 ## Tech
-HTML5 | CSS3 | JavaScript | Git/GitHub desktop | GitHub
+HTML5 | CSS3 | Java | Git/GitHub
 
 ## Experiência
 
@@ -17,11 +17,11 @@ HTML5 | CSS3 | JavaScript | Git/GitHub desktop | GitHub
 ## Ferramentas
 
 - Visual Studio Code
-- Figma
-- CapCut
-- Photoshop  
+- InteliJ
+- GitHub Desktop
 
 ## Contato
 
 - E-mail: lucassilvamagalhaes352@gmail.com  
-- Telefone / WhatsApp: (17) 99648-3632  
+- Telefone / WhatsApp: (17) 99648-3632
+- Linkedin: https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BjM%2B4pa%2F9SsSlp2C81AwC6w%3D%3D
